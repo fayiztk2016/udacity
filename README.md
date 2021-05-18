@@ -11,7 +11,7 @@ and so on.
 Assumption: As of now, support only one constraint , that is `greater than`
 
 How do we run this: 
-- ./gradlew shaowjar
+- ./gradlew shaodwjar
 - java -cp build/libs/udacity-1.0-SNAPSHOT-all.jar com.udacity.assignment.SudokuValidation
 - follow the instructions to give inputs
 
